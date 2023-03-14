@@ -1,0 +1,51 @@
+
+h1{  color:cyan;
+}
+
+p {color:cadetblue;
+}
+body{
+background-color: darkblue;
+}
+
+table,td,th{
+    border: 7px solid red;
+    color: white;
+}
+#div1 {
+    background-color:lightsalmon;
+}
+#div2 {
+    background-color: red;
+}
+
+#div3 {
+  background-color: darkgoldenrod;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  td {
+    color:lawngreen;
+  }
